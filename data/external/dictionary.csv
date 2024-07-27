@@ -1,6 +1,6 @@
 variavel,descricao,tipo,subtipo
 survived,Sobreviventes ou não do passageiro,quantitativa,discreta
-pclass,Número da classe do passageiro,quantitativa,discreta
+pclass,Número da classe do passageiro,qualitativa,ordinal
 sex,Sexo do passageiro,qualitativa,nominal
 age,Idade do passageiro,quantitativa,discreta
 sibsp,Quantidade de irmãos/cônjuges a bordo,quantitativa,discreta
